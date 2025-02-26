@@ -1,6 +1,6 @@
 # Notes App (React Native)
 
-This is a simple notes app built with React Native. It allows users to create, read, update, and delete notes and store them using Appwrite.io. It also uses authentication through Appwrite to allow users to sign up and log in and create private notes.
+This is a simple notes app built with React Native. It allows users to create, read, update, and delete notes and store them using [Appwrite](https://apwr.dev/traversyfeb2025). It also uses authentication through Appwrite to allow users to sign up and log in and create private notes.
 
 <img src="/assets/images/screen.png" width="900">
 
@@ -14,7 +14,7 @@ Install the dependencies:
 npm install
 ```
 
-Rename the `.env.example` file to `.env` and fill in the required environment variables. You will need to sign in at https://appwrite.io/ and create a new project and database and fill in the required details in the `.env` file.
+Rename the `.env.example` file to `.env` and fill in the required environment variables. You will need to sign into Appwrite [Here](https://apwr.dev/traversyfeb2025) and create a new project and database and fill in the required details in the `.env` file.
 
 Run the app:
 
